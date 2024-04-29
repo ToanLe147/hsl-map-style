@@ -187,7 +187,7 @@
       "id": "tunnel_street",
       "minzoom": 13,
       "paint": {
-        "line-color": "#393939"
+        "line-color": "#16694a"
       }
     },
     {
@@ -201,13 +201,13 @@
       "id": "tunnel_motorway",
       "minzoom": 13,
       "paint": {
-        "line-color": "#ccc"
+        "line-color": "#16694a"
       }
     },
     {
       "id": "tunnel_rail",
       "paint": {
-        "line-color": "#383838"
+        "line-color": "#16694a"
       }
     },
     {
@@ -297,7 +297,7 @@
     {
       "id": "road_street",
       "paint": {
-        "line-color": "#181818"
+        "line-color": "#00ab64"
       }
     },
     {
@@ -315,19 +315,19 @@
     {
       "id": "road_minor_rail",
       "paint": {
-        "line-color": "#383838"
+        "line-color": "#16694a"
       }
     },
     {
       "id": "road_subway",
       "paint": {
-        "line-color": "#272727"
+        "line-color": "#00ab64"
       }
     },
     {
       "id": "road_rail",
       "paint": {
-        "line-color": "#272727"
+        "line-color": "#00ab64"
       }
     },
     {
@@ -453,19 +453,19 @@
     {
       "id": "bridge_minor_rail",
       "paint": {
-        "line-color": "#383838"
+        "line-color": "#16694a"
       }
     },
     {
       "id": "bridge_subway",
       "paint": {
-        "line-color": "#272727"
+        "line-color": "#00ab64"
       }
     },
     {
       "id": "bridge_rail",
       "paint": {
-        "line-color": "#272727"
+        "line-color": "#00ab64"
       }
     },
     {
