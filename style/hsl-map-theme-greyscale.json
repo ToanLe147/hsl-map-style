@@ -511,21 +511,21 @@
       "id": "label_poi_harbour",
       "paint": {
         "text-color": "#cfd0d0",
-        "text-halo-color": "rgba(0,0,0,0.7)"
+        "text-halo-color": "rgba(0,0,0,0.5)"
       }
     },
     {
       "id": "label_water_point",
       "paint": {
         "text-color": "#cfd0d0",
-        "text-halo-color": "rgba(0,0,0,0.7)"
+        "text-halo-color": "rgba(0,0,0,0.5)"
       }
     },
     {
       "id": "label_water_line",
       "paint": {
         "text-color": "#cfd0d0",
-        "text-halo-color": "rgba(0,0,0,0.7)"
+        "text-halo-color": "rgba(0,0,0,0.3)"
       }
     },
     {
@@ -560,28 +560,28 @@
       "id": "label_place_other",
       "paint": {
         "text-color": "#cfd0d0",
-        "text-halo-color": "rgba(0,0,0,0.7)"
+        "text-halo-color": "rgba(0,0,0,1)"
       }
     },
     {
       "id": "label_place_town",
       "paint": {
         "text-color": "#cfd0d0",
-        "text-halo-color": "rgba(0,0,0,0.7)"
+        "text-halo-color": "rgba(0,0,0,1)"
       }
     },
     {
       "id": "label_place_city",
       "paint": {
         "text-color": "#cfd0d0",
-        "text-halo-color": "rgba(0,0,0,0.7)"
+        "text-halo-color": "rgba(0,0,0,1)"
       }
     },
     {
       "id": "label_country",
       "paint": {
         "text-color": "#cfd0d0",
-        "text-halo-color": "rgba(0,0,0,0.7)"
+        "text-halo-color": "rgba(0,0,0,1)"
       }
     }
   ]
