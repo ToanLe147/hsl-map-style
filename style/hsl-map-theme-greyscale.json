@@ -9,13 +9,13 @@
     {
       "id": "landuse_hospital",
       "paint": {
-        "fill-color": "#0a0a0a"
+        "fill-color": "#262626"
       }
     },
     {
       "id": "landuse_school",
       "paint": {
-        "fill-color": "#0a0a0a",
+        "fill-color": "#262626",
         "fill-outline-color": "#1b1b1d"
       }
     },
@@ -93,7 +93,7 @@
       "id": "landuse_athletics_track",
       "paint": {
         "fill-color": "#1f1f1f",
-        "fill-outline-color": "#333333"
+        "fill-outline-color": "#cfd0d0333"
       }
     },
     {
@@ -129,8 +129,8 @@
     {
       "id": "landuse_rock",
       "paint": {
-        "fill-color": "#0a0a0a",
-        "fill-outline-color": "#0a0a0a"
+        "fill-color": "#262626",
+        "fill-outline-color": "#262626"
       }
     },
     {
@@ -154,14 +154,14 @@
     {
       "id": "building_shadow",
       "paint": {
-        "fill-color": "#000000",
+        "fill-color": "#262626",
         "fill-outline-color": "#000000"
       }
     },
     {
       "id": "building",
       "paint": {
-        "fill-color": "#0a0a0a",
+        "fill-color": "#262626",
         "fill-outline-color": "#1c1c1c"
       }
     },
@@ -490,97 +490,97 @@
     {
       "id": "label_housenum",
       "paint": {
-        "text-color": "#666"
+        "text-color": "#cfd0d0"
       }
     },
     {
       "id": "label_poi_general",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_poi_park",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_poi_harbour",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_water_point",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_water_line",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_place_island",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_road_path_cycleway_track_service",
       "paint": {
-        "text-color": "#333",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,1)"
       }
     },
     {
       "id": "label_road_street",
       "paint": {
-        "text-color": "#333",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,1)"
       }
     },
     {
       "id": "label_road_primary",
       "paint": {
-        "text-color": "#333",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,1)"
       }
     },
     {
       "id": "label_place_other",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_place_town",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_place_city",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     },
     {
       "id": "label_country",
       "paint": {
-        "text-color": "#666",
+        "text-color": "#cfd0d0",
         "text-halo-color": "rgba(0,0,0,0.7)"
       }
     }
