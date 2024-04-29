@@ -35,7 +35,7 @@
     {
       "id": "landuse_wood",
       "paint": {
-        "fill-color": "#104e37"
+        "fill-color": "#1a1a1a"
       }
     },
     {
@@ -117,7 +117,7 @@
     {
       "id": "water",
       "paint": {
-        "fill-color": "#104e37"
+        "fill-color": "#1a1a1a"
       }
     },
     {
@@ -162,7 +162,7 @@
       "id": "building",
       "paint": {
         "fill-color": "#262626",
-        "fill-outline-color": "#104e37"
+        "fill-outline-color": "#1a1a1a"
       }
     },
     {
