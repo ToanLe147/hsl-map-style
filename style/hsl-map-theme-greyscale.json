@@ -35,7 +35,7 @@
     {
       "id": "landuse_wood",
       "paint": {
-        "fill-color": "#121212"
+        "fill-color": "#104e37"
       }
     },
     {
@@ -117,7 +117,7 @@
     {
       "id": "water",
       "paint": {
-        "fill-color": "#1c1c1c"
+        "fill-color": "#104e37"
       }
     },
     {
@@ -162,7 +162,7 @@
       "id": "building",
       "paint": {
         "fill-color": "#262626",
-        "fill-outline-color": "#1c1c1c"
+        "fill-outline-color": "#104e37"
       }
     },
     {
@@ -194,7 +194,7 @@
       "id": "tunnel_primary",
       "minzoom": 13,
       "paint": {
-        "line-color": "#6a6a6a"
+        "line-color": "#104e37"
       }
     },
     {
@@ -219,31 +219,31 @@
     {
       "id": "road_path",
       "paint": {
-        "line-color": "#1c1c1c"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "road_cycleway_track",
       "paint": {
-        "line-color": "#1c1c1c"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "road_service",
       "paint": {
-        "line-color": "#1c1c1c"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "road_link_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "road_motorway_link_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
@@ -255,25 +255,25 @@
     {
       "id": "road_primary_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "road_motorway_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "road_path_steps_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "road_path_steps",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
@@ -303,7 +303,7 @@
     {
       "id": "road_primary",
       "paint": {
-        "line-color": "#121212"
+        "line-color": "#104e37"
       }
     },
     {
@@ -345,7 +345,7 @@
     {
       "id": "bridge_path",
       "paint": {
-        "line-color": "#1c1c1c"
+        "line-color": "#104e37"
       }
     },
     {
@@ -363,7 +363,7 @@
     {
       "id": "bridge_cycleway_track",
       "paint": {
-        "line-color": "#1c1c1c"
+        "line-color": "#104e37"
       }
     },
     {
@@ -381,31 +381,31 @@
     {
       "id": "bridge_service",
       "paint": {
-        "line-color": "#1c1c1c"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "bridge_road_motorway_link_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "bridge_street_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "bridge_primary_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
       "id": "bridge_motorway_case",
       "paint": {
-        "line-color": "#323232"
+        "line-color": "#104e37"
       }
     },
     {
@@ -429,7 +429,7 @@
     {
       "id": "bridge_primary",
       "paint": {
-        "line-color": "#121212"
+        "line-color": "#104e37"
       }
     },
     {
