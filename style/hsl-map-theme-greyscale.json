@@ -285,13 +285,13 @@
     {
       "id": "road_link",
       "paint": {
-        "line-color": "#000000"
+        "line-color": "#00ab64"
       }
     },
     {
       "id": "road_motorway_link",
       "paint": {
-        "line-color": "#000000"
+        "line-color": "#00ab64"
       }
     },
     {
@@ -309,7 +309,7 @@
     {
       "id": "road_motorway",
       "paint": {
-        "line-color": "#000000"
+        "line-color": "#00ab64"
       }
     },
     {
@@ -411,13 +411,13 @@
     {
       "id": "bridge_link",
       "paint": {
-        "line-color": "#000000"
+        "line-color": "#00ab64"
       }
     },
     {
       "id": "bridge_motorway_link",
       "paint": {
-        "line-color": "#000000"
+        "line-color": "#00ab64"
       }
     },
     {
@@ -435,7 +435,7 @@
     {
       "id": "bridge_motorway",
       "paint": {
-        "line-color": "#000000"
+        "line-color": "#00ab64"
       }
     },
     {
